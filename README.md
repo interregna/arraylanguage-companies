@@ -24,4 +24,4 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Language | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :------- | :----- | :----- | :--------- |
-| [Monument](www.monument.ai) | J | New York | ML | | Some |
+| [Monument](https://www.monument.ai) | J | New York | ML | | Some |
