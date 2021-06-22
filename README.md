@@ -8,8 +8,8 @@ There are a few other lists like this for other languages that might be of inter
 * [Elixir](https://github.com/beam-community/elixir-companies)
 * [Elm](https://github.com/jah2488/elm-companies)
 * [F#](https://github.com/Kavignon/fsharp-companies)
-* [PureScript](https://github.com/ajnsit/purescript-companies)
 * [Haskell](https://github.com/erkmos/haskell-companies)
+* [PureScript](https://github.com/ajnsit/purescript-companies)
 
 #### Updates
 If you see a company on the list that doesn't exist anymore, or does not use an array language anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses an array languages but is not on the list. Please include the website, github (if applicable), locations, sector and whether the company allows developers to work remotely.
