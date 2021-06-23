@@ -26,11 +26,11 @@ Some of these companies support remote hires. Where that information is availabl
 | :--- | :------- | :------- | :----- | :----- | :--------- |
 | [1010 Data](https://www.1010data.com) | K | New York | Analytics | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | ? |
 | [Appian](https://appian.com) | K | global | apps | [company](https://docs.appian.com/suite/help/17.2/Requesting_and_Installing_a_license.html) | Yes |
-| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, Ireland + Jersey City, US | | | |
+| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, Ireland + Jersey City, US | | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
 | [Monument](https://www.monument.ai) | J | New York | ML | | Some |
-| [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | | |
-| [Red Bull Racing Team] | Kx | | sensors | (Kx)[https://kx.com/blog/aston-martin-redbull/] | |
+| [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
+| [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | (Kx)[https://kx.com/blog/aston-martin-redbull/] | |
 
 
 
