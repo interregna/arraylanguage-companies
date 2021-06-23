@@ -24,4 +24,5 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Language | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :------- | :----- | :----- | :--------- |
+| [1010 Data](https://www.1010data.com) | K | New York | Analytics | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | ? |
 | [Monument](https://www.monument.ai) | J | New York | ML | | Some |
