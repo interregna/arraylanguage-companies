@@ -1,4 +1,4 @@
-## A List of companies that use Array Languages (J, K, q, APL)
+## A List of companies that use Array Languages (J, K, APL, q)
 This list has been made in collaboration with members of [/r/apljk](https://www.reddit.com/r/apljk)
 
 #### Similar lists
