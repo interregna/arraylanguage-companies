@@ -20,6 +20,14 @@ Many of these companies have some kind of array language development, but it is 
 
 Some of these companies support remote hires. Where that information is available, it has been indicated in the `Remote OK` column below. Timezone and/or country restrictions might apply.
 
+### Recruiting
+
+Some companies not listed here engage through recruiting firms which often do not disclose their clients.
+
+| Language | Job Board |
+| :------- | :------- |
+| APL | [APL Wiki](https://aplwiki.com/wiki/Talk:Jobs) |
+
 ### Companies
 
 | Name | Language | Location | Sector | Source | Remote OK? |
@@ -32,6 +40,3 @@ Some of these companies support remote hires. Where that information is availabl
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | [Kx](https://kx.com/blog/aston-martin-redbull/) | |
 | [SimCorp](https://www.simcorp.com/) | APL | Global, HQ - Copenhagen, Denmark | financial software | [Wikipedia](https://en.wikipedia.org/wiki/SimCorp) | |
-
-
-
