@@ -37,7 +37,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [APL Borealis](http://www.aplborealis.com/) | APL | Ontario, Canada | consulting | [company](http://www.aplborealis.com/services.html) | |
 | [Aplensia](http://aplensia.com) | APL | Sweden | consulting | [Dyalog](https://www.dyalog.com/case-studies/customisation.htm) |  |
 | [Appian](https://appian.com) | K | Global | apps | [company](https://docs.appian.com/suite/help/17.2/Requesting_and_Installing_a_license.html) | yes |
-| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, Ireland + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
+| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Carlisle Group](https://www.carlislegroup.com/) | APL | Pennsylvania | financial software | [GitHub](https://github.com/the-carlisle-group) | yes
 | [CompuGroup Medical](https://profdoccare.se) | APL | Sweden | medical | [Dyalog](https://www.dyalog.com/case-studies/healthcare.htm) |  | yes
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
