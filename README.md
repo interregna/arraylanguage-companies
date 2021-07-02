@@ -35,7 +35,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [1010Data](https://www.1010data.com) | K3 | New York | analytics | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | yes |
 | [Aplensia](http://aplensia.com) | APL | Sweden | consulting | [Dyalog](https://www.dyalog.com/case-studies/customisation.htm) |  |
 | [Appian](https://appian.com) | K | Global | apps | [company](https://docs.appian.com/suite/help/17.2/Requesting_and_Installing_a_license.html) | yes |
-| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, Ireland + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
+| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
 | [Monument](https://www.monument.ai) | J | New York | analytics | | some |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
