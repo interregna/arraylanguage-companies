@@ -37,16 +37,19 @@ Some companies not listed here engage through recruiting firms which often do no
 | [APL Borealis](http://www.aplborealis.com/) | APL | Ontario, Canada | consulting | [company](http://www.aplborealis.com/services.html) | |
 | [Aplensia](http://aplensia.com) | APL | Sweden | consulting | [Dyalog](https://www.dyalog.com/case-studies/customisation.htm) |  |
 | [Appian](https://appian.com) | K | Global | apps | [company](https://docs.appian.com/suite/help/17.2/Requesting_and_Installing_a_license.html) | yes |
-| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
+| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | | [ASCO](https://www.asco.org/) | APL | Virginia, US | medical, research | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
+| [Aviva](https://www.aviva.com/) | APL | London, UK | finance | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Carlisle Group](https://www.carlislegroup.com/) | APL | Pennsylvania | financial software | [GitHub](https://github.com/the-carlisle-group) | yes
 | [CompuGroup Medical](https://profdoccare.se) | APL | Sweden | medical | [Dyalog](https://www.dyalog.com/case-studies/healthcare.htm) |  | yes
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
 | [Dyalog](https://dyalog.com) | APL | UK + Denmark | software dev + consulting | [company](https://www.dyalog.com/careers.htm) | yes |
 | [HMW Computing](https://hmwcomputing.co.uk/) | APL | UK | [company](https://hmwcomputing.co.uk/apl.htm) | |
+| [Janssen](https://www.janssen.com/) | APL | USA | medical | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
+| [Lloyds Bank](https://www.lloydsbank.com/) | APL | UK | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Jersie Data](http://apl.net/) | APL | Denmark | food distribution + consulting | [company](http://apl.net/) | |
 | [Monument](https://www.monument.ai) | J | New York | analytics | | some |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
-| [Optima Systesm](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
+| [Optima Systems](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | [Kx](https://kx.com/blog/aston-martin-redbull/) | |
 | [SimCorp](https://www.simcorp.com/) | APL | Global, HQ - Copenhagen, Denmark | financial software | [Wikipedia](https://en.wikipedia.org/wiki/SimCorp) | | 
 | [Volvo](https://www.volvogroup.com/) | APL | Sweden | manufacturing | [Dyalog](https://www.dyalog.com/case-studies/index.htm) |  |
