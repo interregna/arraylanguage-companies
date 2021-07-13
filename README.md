@@ -47,6 +47,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [Janssen](https://www.janssen.com/) | APL | USA | medical | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Lloyds Bank](https://www.lloydsbank.com/) | APL | UK | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Jersie Data](http://apl.net/) | APL | Denmark | food distribution + consulting | [company](http://apl.net/) | |
+| [MJH Software](http://mjhsoftwareservices.co.uk/) | APL | UK | consulting + support | [company](http://mjhsoftwareservices.co.uk/)
 | [Monument](https://www.monument.ai) | J | New York | analytics | | some |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Optima Systems](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
