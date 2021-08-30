@@ -51,6 +51,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [Monument](https://www.monument.ai) | J | New York | analytics | | some |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Optima Systems](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
+| [Pimco](https://www.pimco.com) | Kdb+ | Newport Beach | finance | company | |
 | [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | [Kx](https://kx.com/blog/aston-martin-redbull/) | |
 | [SimCorp](https://www.simcorp.com/) | APL | Global, HQ - Copenhagen, Denmark | financial software | [Wikipedia](https://en.wikipedia.org/wiki/SimCorp) | | 
 | [Volvo](https://www.volvogroup.com/) | APL | Sweden | manufacturing | [Dyalog](https://www.dyalog.com/case-studies/index.htm) |  |
