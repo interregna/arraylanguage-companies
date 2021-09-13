@@ -56,6 +56,6 @@ Some companies not listed here engage through recruiting firms which often do no
 | [Pimco](https://www.pimco.com) | kdb | Newport Beach | finance | company | |
 | [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | [Kx](https://kx.com/blog/aston-martin-redbull/) | |
 | [SimCorp](https://www.simcorp.com/) | APL | Global, HQ - Copenhagen, Denmark | financial software | [Wikipedia](https://en.wikipedia.org/wiki/SimCorp) | | 
-| [UBS](https://www.ubs.com/global/en.html) | Global, HQ - Zurich, Switzerland | finance | Know someone who works/worked there | |
+| [UBS](https://www.ubs.com/global/en.html) | kdb | Global, HQ - Zurich, Switzerland | finance | Know someone who works/worked there | |
 | [Volvo](https://www.volvogroup.com/) | APL | Sweden | manufacturing | [Dyalog](https://www.dyalog.com/case-studies/index.htm) |  |
 | [WinTech](https://www.winklevoss.com) | APL | Connecticut | software dev | [Rex Swain](http://www.rexswain.com/resume.html) |  |
