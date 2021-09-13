@@ -42,20 +42,20 @@ Some companies not listed here engage through recruiting firms which often do no
 | [Carlisle Group](https://www.carlislegroup.com/) | APL | Pennsylvania | financial software | [GitHub](https://github.com/the-carlisle-group) | yes
 | [CompuGroup Medical](https://profdoccare.se) | APL | Sweden | medical | [Dyalog](https://www.dyalog.com/case-studies/healthcare.htm) |  | yes
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
-| [CitiBank](https://www.citi.com/)  | kdb | New York | finance | Know someone who worked/works there | | 
+| [CitiBank](https://www.citi.com/)  | Kdb+ | New York | finance | Know someone who worked/works there | | 
 | [Dyalog](https://dyalog.com) | APL | UK + Denmark | software dev + consulting | [company](https://www.dyalog.com/careers.htm) | yes |
 | [HMW Computing](https://hmwcomputing.co.uk/) | APL | UK | [company](https://hmwcomputing.co.uk/apl.htm) | |
 | [Janssen](https://www.janssen.com/) | APL | USA | medical | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
-| [JP Morgan](https://www.jpmorganchase.com/) | kdb | New York | finance | Know someone who worked/works there | |
+| [JP Morgan](https://www.jpmorganchase.com/) | Kdb+ | New York | finance | Know someone who worked/works there | |
 | [Lloyds Bank](https://www.lloydsbank.com/) | APL | UK | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Jersie Data](http://apl.net/) | APL | Denmark | food distribution + consulting | [company](http://apl.net/) | |
 | [MJH Software](http://mjhsoftwareservices.co.uk/) | APL | UK | consulting + support | [company](http://mjhsoftwareservices.co.uk/)
 | [Monument](https://www.monument.ai) | J | New York | analytics | | some |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Optima Systems](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
-| [Pimco](https://www.pimco.com) | kdb | Newport Beach | finance | company | |
+| [Pimco](https://www.pimco.com) | Kdb+ | Newport Beach | finance | company | |
 | [Red Bull Racing Team](https://www.redbull.com/int-en/redbullracing) | Kx | | sensors | [Kx](https://kx.com/blog/aston-martin-redbull/) | |
 | [SimCorp](https://www.simcorp.com/) | APL | Global, HQ - Copenhagen, Denmark | financial software | [Wikipedia](https://en.wikipedia.org/wiki/SimCorp) | | 
-| [UBS](https://www.ubs.com/global/en.html) | kdb | Global, HQ - Zurich, Switzerland | finance | Know someone who works/worked there | |
+| [UBS](https://www.ubs.com/global/en.html) | Kdb+ | Global, HQ - Zurich, Switzerland | finance | Know someone who works/worked there | |
 | [Volvo](https://www.volvogroup.com/) | APL | Sweden | manufacturing | [Dyalog](https://www.dyalog.com/case-studies/index.htm) |  |
 | [WinTech](https://www.winklevoss.com) | APL | Connecticut | software dev | [Rex Swain](http://www.rexswain.com/resume.html) |  |
