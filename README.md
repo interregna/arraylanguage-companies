@@ -45,12 +45,13 @@ Some companies not listed here engage through recruiting firms which often do no
 | [CitiBank](https://www.citi.com/)  | Kdb+ | New York | finance | Know someone who worked/works there | | 
 | [Dyalog](https://dyalog.com) | APL | UK + Denmark | software dev + consulting | [company](https://www.dyalog.com/careers.htm) | yes |
 | [HMW Computing](https://hmwcomputing.co.uk/) | APL | UK | [company](https://hmwcomputing.co.uk/apl.htm) | |
+| [InfoStroy](https://www.infostroy.com) | APL | Russia | finance | [company](https://www.infostroy.com/philosophy) | [yes](https://www.infostroy.com/events) |
 | [Janssen](https://www.janssen.com/) | APL | USA | medical | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [JP Morgan](https://www.jpmorganchase.com/) | Kdb+ | New York | finance | Know someone who worked/works there | |
 | [Lloyds Bank](https://www.lloydsbank.com/) | APL | UK | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Jersie Data](http://apl.net/) | APL | Denmark | food distribution + consulting | [company](http://apl.net/) | |
 | [MJH Software](http://mjhsoftwareservices.co.uk/) | APL | UK | consulting + support | [company](http://mjhsoftwareservices.co.uk/)
-| [Monument](https://www.monument.ai) | J | New York | analytics | | some |
+| [Monument](https://www.monument.ai) | J | New York | analytics | | some | |
 | [Morgan Stanley](https://www.morganstanley.com) | Kx | New York | finance | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | |
 | [Optima Systems](https://optima-systems.co.uk/) | APL | UK | consulting | [company](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Pimco](https://www.pimco.com) | Kdb+ | Newport Beach | finance | company | |
