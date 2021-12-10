@@ -9,6 +9,7 @@ There are a few other lists like this for other languages that might be of inter
 * [Elm](https://github.com/jah2488/elm-companies)
 * [F#](https://github.com/Kavignon/fsharp-companies)
 * [Haskell](https://github.com/erkmos/haskell-companies)
+* [Lisp](https://github.com/azzamsa/awesome-lisp-companies)
 * [PureScript](https://github.com/ajnsit/purescript-companies)
 
 #### Updates
