@@ -41,6 +41,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | | [ASCO](https://www.asco.org/) | APL | Virginia, US | medical, research | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Aviva](https://www.aviva.com/) | APL | London, UK | finance | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Carlisle Group](https://www.carlislegroup.com/) | APL | Pennsylvania | financial software | [GitHub](https://github.com/the-carlisle-group) | yes
+| [Connor, Clark & Lunn](https://www.cclgroup.com/cclim/en)| Kdb+ | Vancouver, Canada | finance | know someone who works there
 | [CompuGroup Medical](https://profdoccare.se) | APL | Sweden | medical | [Dyalog](https://www.dyalog.com/case-studies/healthcare.htm) |  | yes
 | [Citadel](https://www.citadel.com) | K | Chicago | finance | | |
 | [CitiBank](https://www.citi.com/)  | Kdb+ | New York | finance | Know someone who worked/works there | | 
