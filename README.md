@@ -57,6 +57,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [GSA Capital](https://www.gsacapital.com) | K | London & New York | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [HMW Computing](https://hmwcomputing.co.uk/) | APL | UK | [company](https://hmwcomputing.co.uk/apl.htm) | |
 | [InfoStroy](https://www.infostroy.com) | APL | Russia | finance | [company](https://www.infostroy.com/philosophy) | [yes](https://www.infostroy.com/events) |
+| [InvestCloud](https://www.investcloud.com) | APL | United States | finance | [company] | [yes] |
 | [Janssen](https://www.janssen.com/) | APL | USA | medical | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [JP Morgan](https://www.jpmorganchase.com/) | Kdb+ | New York | finance | Know someone who worked/works there | |
 | [Lloyds Bank](https://www.lloydsbank.com/) | APL | UK | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
