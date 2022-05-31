@@ -52,7 +52,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [CitiBank](https://www.citi.com/)  | Kdb+ | New York | finance | Know someone who worked/works there | |
 | [DekaBank](https://www.deka.de) | K | Germany | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [Deutsche Bank](https://www.db.com) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
-| [DPC](https://dpc.de/) | APL | Germany | consulting + software dev | [company](https://dpc.de/) | Yes
+| [DPC](https://dpc.de/) | APL | Germany | consulting + software dev | [company](https://dpc.de/) | yes
 | [Dyalog](https://dyalog.com) | APL | UK + Denmark | software dev + consulting | [company](https://www.dyalog.com/careers.htm) | yes |
 | [Goldman Sachs](https://www.goldmansachs.com) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [GSA Capital](https://www.gsacapital.com) | K | London & New York | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
