@@ -42,6 +42,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [Aviva](https://www.aviva.com/) | APL | London, UK | finance | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Barclays](https://home.barclays) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [Bank of America - Merrill Lynch](https://www.bankofamerica.com) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
+| [BIG](https://bigjewelers.com/) | APL | USA | Retail consulting | [APL Wiki](https://aplwiki.com/wiki/Talk:Jobs#Needed:_Data_Team_APL_Developer_.28added:_2022-07-26.29) | only
 | [Carlisle Group](https://www.carlislegroup.com/) | APL | Pennsylvania | financial software | [GitHub](https://github.com/the-carlisle-group) | yes
 | [Citi Bank](https://www.citi.com) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [Connor, Clark & Lunn](https://www.cclgroup.com/cclim/en)| Kdb+ | Vancouver, Canada | finance | know someone who works there
