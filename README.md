@@ -38,7 +38,7 @@ Some companies not listed here engage through recruiting firms which often do no
 | [APL Borealis](http://www.aplborealis.com/) | APL | Ontario, Canada | consulting | [company](http://www.aplborealis.com/services.html) | |
 | [Aplensia](http://aplensia.com) | APL | Sweden | consulting | [Dyalog](https://www.dyalog.com/case-studies/customisation.htm) |  |
 | [Appian](https://appian.com) | K | global | apps | [company](https://docs.appian.com/suite/help/17.2/Requesting_and_Installing_a_license.html) | yes |
-| [AquaQ](https://www.aquaq.co.uk) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | | [ASCO](https://www.asco.org/) | APL | Virginia, US | medical, research | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
+| [Data Intellect](https://www.dataintellect.com) (formally AquaQ) | Kx | Belfast, UK + Jersey City, US | consulting | [Reddit](https://www.reddit.com/r/apljk/comments/o60i7r/list_of_companies_using_j_k_apl_array_languages/) | | [ASCO](https://www.asco.org/) | APL | Virginia, US | medical, research | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Aviva](https://www.aviva.com/) | APL | London, UK | finance | [Optima systems](https://optima-systems.co.uk/apl-consultancy/) |  |
 | [Barclays](https://home.barclays) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
 | [Bank of America - Merrill Lynch](https://www.bankofamerica.com) | K | global | finance | [tsdb](http://www.timestored.com/b/forums/topic/what-companies-use-kdb-just-finance-banks/) | |
